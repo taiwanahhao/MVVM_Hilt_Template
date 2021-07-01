@@ -1,0 +1,7 @@
+.gradle
+.idea
+.github
+.run
+local.properties
+build
+gradle
